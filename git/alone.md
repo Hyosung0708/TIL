@@ -6,9 +6,14 @@ github cycle
 
 - 무언가 소스코드를 변경하게 되면 > 저장 > git add . > git commit -m "내용" > push
 
-**최초
+
+
+- 최초
 git init > git add . > git commit -m 'message' > git remote add origin <remote url> > git push origin master
 
+
+
+## 기본 명령어
 
 ```shell
 git init
